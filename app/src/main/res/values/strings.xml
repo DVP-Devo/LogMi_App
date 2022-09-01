@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LogMi</string>
+    <string name="Title_logmi">LogMi</string>
+    <string name="button_set_goal">Set Goal</string>
+    <string name="button_log_activity">Log Activity</string>
+    <string name="button_your_stats">Your Stats</string>
+    <string name="button_save_activity">Save Activity</string>
+    <string name="text_quantity">Quantity:</string>
+    <string name="total_sessions">Total sessions:</string>
+</resources>
